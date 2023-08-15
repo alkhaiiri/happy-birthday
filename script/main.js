@@ -287,7 +287,7 @@ const animationTimeline = () => {
       ".last-smile",
       0.5,
       {
-        rotation: 275
+        rotation: 360
       },
       "+=1"
     );
